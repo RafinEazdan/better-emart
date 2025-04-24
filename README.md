@@ -1,10 +1,10 @@
-# SuperProduct Landing Page
+# EduHive
 
-A modern, responsive landing page for SuperProduct, built with Next.js and Tailwind CSS.
+A modern, responsive landing page for Eduhive, built with Next.js and Tailwind CSS.
 
 ## Overview
 
-This project is a single-page landing site that showcases SuperProduct's features, about section, and contact information. The site includes:
+This project is a single-page landing site that showcases EduHive's features, about section, and contact information. The site includes:
 
 - Responsive design that works on all devices
 - Smooth scrolling navigation
